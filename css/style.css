@@ -15,3 +15,12 @@ div.developer {
   padding: 6px;
   text-align: center;
 }
+
+div.food {
+  width: 400px;
+  display: inline-block;
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 6px;
+  text-align: center;
+}
